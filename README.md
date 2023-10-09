@@ -13,7 +13,7 @@ Apache Netbeans | 15
 MySQL | 8.0
 JDBC / Connector | 8.0.26
 
-A aplicação consiste em um gerenciador de tarefas básicos a fim de utilizar todas as tecnologias vistas em trilhasa anteriores. As operações de persistência de dados traduz um CRUD.
+A aplicação consiste em um gerenciador de tarefas básicos a fim de utilizar todas as tecnologias vistas em trilhas anteriores. As operações de persistência de dados traduz um CRUD.
 
 ### Diagrama ER e Classe
 
